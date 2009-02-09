@@ -1,0 +1,3 @@
+This app is intended to demonstrate what I believe is a bug in rails routing.
+It appears to be impossible to have a deeply nested route with a singular
+resource in the middle, of the form /users/1/blog/posts/6
